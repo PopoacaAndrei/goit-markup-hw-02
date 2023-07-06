@@ -184,6 +184,7 @@ body {
   height: 101px;
   top: 730px;
   left: 215px;
+  margin-top: 30px;
 }
 
 h5 {
@@ -202,7 +203,6 @@ h5 {
   letter-spacing: 0.42px;
   display: flex;
   width: 270px;
-  padding-right: 30px;
 }
 
 /* What we do section */
